@@ -1,0 +1,79 @@
+{
+  "kriterien": [
+    {
+      "bewertung": 0,
+      "name": "Kriterium #0",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #0"
+    },
+    {
+      "bewertung": 2,
+      "name": "Kriterium #1",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #1"
+    },
+    {
+      "bewertung": 0,
+      "name": "Kriterium #2",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #2"
+    },
+    {
+      "bewertung": 3,
+      "name": "Kriterium #3",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #3"
+    },
+    {
+      "bewertung": 2,
+      "name": "Kriterium #4",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #4"
+    },
+    {
+      "bewertung": 2,
+      "name": "Kriterium #5",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #5"
+    },
+    {
+      "bewertung": 5,
+      "name": "Kriterium #6",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #6"
+    },
+    {
+      "bewertung": 3,
+      "name": "Kriterium #7",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #7"
+    },
+    {
+      "bewertung": 10,
+      "name": "Kriterium #8",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #8"
+    },
+    {
+      "bewertung": 5,
+      "name": "Kriterium #9",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #9"
+    },
+    {
+      "bewertung": 4,
+      "name": "Kriterium #10",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #10"
+    },
+    {
+      "bewertung": 3,
+      "name": "Kriterium #11",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #11"
+    },
+    {
+      "bewertung": 2,
+      "name": "Kriterium #12",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #12"
+    },
+    {
+      "bewertung": 9,
+      "name": "Kriterium #13",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #13"
+    },
+    {
+      "bewertung": 1,
+      "name": "Kriterium #14",
+      "tooltip": "Dies ist ein Tooltip für Kriterium #14"
+    }
+  ]
+}

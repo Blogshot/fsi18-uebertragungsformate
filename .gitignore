@@ -1,0 +1,6 @@
+.idea
+gson-2.8.6.jar
+yamlbeans-1.14.jar
+out/production
+out/artifacts/*
+!out/artifacts/uebertragungsformate_jar

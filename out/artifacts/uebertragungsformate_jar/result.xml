@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.2" class="java.beans.XMLDecoder">
+ <object class="Evaluation" id="Evaluation0">
+  <void property="kriterien">
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>0</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #0</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #0</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>2</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #1</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #1</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>0</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #2</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #2</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>3</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #3</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #3</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>2</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #4</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #4</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>2</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #5</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #5</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>5</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #6</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #6</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>3</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #7</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #7</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>10</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #8</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #8</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>5</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #9</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #9</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>4</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #10</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #10</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>3</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #11</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #11</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>2</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #12</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #12</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>9</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #13</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #13</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Kriterium">
+     <void property="bewertung">
+      <int>1</int>
+     </void>
+     <void property="name">
+      <string>Kriterium #14</string>
+     </void>
+     <void property="tooltip">
+      <string>Dies ist ein Tooltip für Kriterium #14</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

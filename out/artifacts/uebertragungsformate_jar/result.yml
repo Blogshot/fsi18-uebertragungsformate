@@ -1,0 +1,62 @@
+!Evaluation
+kriterien: 
+- !Kriterium
+   name: 'Kriterium #0'
+   bewertung: 0
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #0"
+- !Kriterium
+   name: 'Kriterium #1'
+   bewertung: 2
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #1"
+- !Kriterium
+   name: 'Kriterium #2'
+   bewertung: 0
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #2"
+- !Kriterium
+   name: 'Kriterium #3'
+   bewertung: 3
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #3"
+- !Kriterium
+   name: 'Kriterium #4'
+   bewertung: 2
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #4"
+- !Kriterium
+   name: 'Kriterium #5'
+   bewertung: 2
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #5"
+- !Kriterium
+   name: 'Kriterium #6'
+   bewertung: 5
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #6"
+- !Kriterium
+   name: 'Kriterium #7'
+   bewertung: 3
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #7"
+- !Kriterium
+   name: 'Kriterium #8'
+   bewertung: 10
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #8"
+- !Kriterium
+   name: 'Kriterium #9'
+   bewertung: 5
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #9"
+- !Kriterium
+   name: 'Kriterium #10'
+   bewertung: 4
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #10"
+- !Kriterium
+   name: 'Kriterium #11'
+   bewertung: 3
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #11"
+- !Kriterium
+   name: 'Kriterium #12'
+   bewertung: 2
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #12"
+- !Kriterium
+   name: 'Kriterium #13'
+   bewertung: 9
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #13"
+- !Kriterium
+   name: 'Kriterium #14'
+   bewertung: 1
+   tooltip: "Dies ist ein Tooltip f\u00fcr Kriterium #14"
